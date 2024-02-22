@@ -20,3 +20,8 @@ The following image provides detailed insight in the structure.
 
 ![PicoBean documentation (2)](https://github.com/Alexjkz/Magnifica/assets/74292381/94f97a85-729d-4c2e-8f1f-b919bb804415)
 
+## Project team and roles
+- Enrico Crosato @ichrono: JS frontend, HTTP requests, CSS animations, Calendar API.
+- Alessandro Fiastri @alexjkz: Python Backend main logic, Raspberry Pi optimization and compatibility, GPT integration.
+- Gianluigi Lucca Fabris @juanfabris: CSS animation, Weather API.
+
