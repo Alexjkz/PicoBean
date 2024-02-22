@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <title>RobotFace</title>
+    <link rel="stylesheet" type="text/css" href="/static/css/style.css" />
+    <link rel="stylesheet" type="text/css" href="/static/css/styleAnimations.css" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/4.0.1/socket.io.js"></script>
+  </head>
+  <body>
+    <div class="monitor">
+      <header class="menuHeader">
+        <button class="return">
+          <img src="\static\logos\menu\Return.svg" alt="" />
+        </button>       
+        <div class="userSettContainer">
+          <div class="userContainer">
+            <p>User 1</p>
+            <img src="\static\logos\menu\User.svg" id="user" alt="User" />
+          </div>
+          <button><img src="\static\logos\menu\Settings.svg" id="menuSettings" alt="MenuSettings"/></button>
+        </div>
+      </header>
+      <!-- Manage the eyes -->
+      <div class="eye-container">
+        <div class="class left">
+            <div class="left-eye"></div>
+            <div class="left-eyeBrown"></div>
+        </div>
+        
+        <div class="class right">
+            <div class="right-eye"></div>
+            <div class="right-eyeBrown"></div>
+        </div>
+      </div>
+      <div class="coffeeCup">
+        <div class="cup">
+            <div class="logo"><img src="\static\logos\DeLonghi.png" alt="logo" /></div>
+            <div class="handle"></div>
+        </div>
+      </div>
+      <section class="menu">
+        <section class="beverages">
+          <div class="bevanda Espresso">
+            <button>
+              <img src="\static\logos\beverages\Espresso.svg" alt="EspressoImg" />
+            </button>
+            <p>Espresso</p>
+          </div>
+          <div class="bevanda coffe">
+            <button><img src="\static\logos\beverages\Caffe.svg" alt="CoffeImg" /></button>
+            <p>Coffe</p>
+          </div>
+          <div class="bevanda cappuccino">
+            <button><img src="\static\logos\beverages\Cappuccino.svg" alt="CappuccinoImg" /></button>
+            <p>Cappuccino</p>
+          </div>
+          <div class="bevanda latteMacchiato">
+            <button><img src="\static\logos\beverages\LatteMacchiato.svg" alt="LatteMacchiatoImg" /></button>
+            <p>Latte Macchiato</p>
+          </div>
+          <div class="bevanda latteCaldo">
+            <button><img src="\static\logos\beverages\LatteCaldo.svg" alt="LatteCaldoImg" /></button>
+            <p>Latte Caldo</p>
+          </div>
+          <div class="bevanda americano">
+            <button><img src="\static\logos\beverages\Americano.svg" alt="AmericanoImg" /></button>
+            <p>Americano</p>
+          </div>
+          <div class="bevanda coldBrew">
+            <button><img src="\static\logos\beverages\ColdBrew.svg" alt="ColdBrewImg" /></button>
+            <p>Cold Brew</p>
+          </div>
+          <div class="bevanda caffelatte">
+            <button><img src="\static\logos\beverages\Caffelatte.svg" alt="CaffelatteImg" /></button>
+            <p>Caffelatte</p>
+          </div>
+          <div class="bevanda caffe2x">
+            <button><img src="\static\logos\beverages\CaffeX2.svg" alt="Caffe2x" /></button>
+            <p>Doppio</p>
+          </div>
+          <div class="bevanda latteFreddo">
+            <button><img src="\static\logos\beverages\LatteCaldo.svg" alt="Latte" /></button>
+            <p>Latte Freddo</p>
+          </div>
+          <div class="bevanda te">
+            <button><img src="\static\logos\beverages\HotTea.svg" alt="HotTea" /></button>
+            <p>Tè</p>
+          </div>
+          <div class="bevanda acquaCalda">
+            <button><img src="\static\logos\beverages\AcquaCalda.svg" alt="AcquaCalda" /></button>
+            <p>Acqua Calda</p>
+          </div>
+        </section>
+        <section class="beveragesSettings">
+          <div class="length">
+            <img
+              src="\static\logos\menu\Medium.svg"
+              class="lengthIcon"
+              alt="LengthIcon"
+            />
+            <div class="setter">
+              <button class="setCircle low len"></button>
+              <span></span>
+              <button class="setCircle medium len"></button>
+              <span></span>
+              <button class="setCircle high len"></button>
+            </div>
+          </div>
+          <button class="erogaBtn"><img src="" alt="" /></button>
+          <div class="aroma">
+            <img
+              src="\static\logos\menu\Chicchi.svg"
+              class="aromaIcon"
+              alt="AromaIcon"
+            />
+            <div class="setter">
+              <button class="setCircle low ar"></button>
+              <span></span>
+              <button class="setCircle medium len ar"></button>
+              <span></span>
+              <button class="setCircle high ar"></button>
+            </div>
+          </div>
+        </section>
+      </section>
+    </div>
+    <div class="buttons"> <!-- for debug -->
+      <button id="blink-button">blink</button>
+      <button id="idle-button">idle</button>
+      <button id="listening-button">listening</button>
+      <button id="STOPlistening-button">STOP listening</button>
+      <button id="happy-button">happy</button>
+      <button id="rest-button">rest</button>
+      <button id="wake-button">wake up!</button>
+      <button id="quest-button">didn't understand</button>
+      <button id="wink-button">wink</button>
+      <button id="talk-button">talk</button>
+      <button id="unsure-button">?</button>
+      <button id="sad-button">sad</button>
+      <button id="loading-coffee">coffee</button>
+    </div>
+    <script type="module" src="/static/js/script.js"></script>
+    <script type="module" src="/static/js/animations.js"></script>
+  </body>
+</html>

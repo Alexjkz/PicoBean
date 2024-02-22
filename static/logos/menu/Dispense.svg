@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 28.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1000 1000" style="enable-background:new 0 0 1000 1000;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;}
+	.st1{display:inline;fill:#010202;stroke:#000000;stroke-width:11;stroke-miterlimit:10;}
+	.st2{fill:#010202;stroke:#000000;stroke-width:11;stroke-miterlimit:10;}
+	.st3{fill:none;stroke:#FFFFFF;stroke-miterlimit:10;}
+	.st4{fill:#FFFFFF;stroke:#FFFFFF;stroke-width:10;stroke-miterlimit:10;}
+	.st5{display:inline;fill:none;stroke:#FFFFFF;stroke-width:15;stroke-miterlimit:10;}
+	.st6{display:inline;fill:none;stroke:#283371;stroke-width:20;stroke-miterlimit:10;}
+	.st7{display:inline;fill:none;stroke:#FFFFFF;stroke-width:20;stroke-miterlimit:10;}
+	.st8{display:inline;fill:none;stroke:#FFFFFF;stroke-width:20;stroke-linecap:round;stroke-miterlimit:10;}
+	.st9{display:inline;fill:none;stroke:#FFFFFF;stroke-width:10;stroke-miterlimit:10;}
+	.st10{display:inline;fill:none;stroke:#FFFFFF;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st11{fill:none;stroke:#FFFFFF;stroke-width:10;stroke-miterlimit:10;}
+	.st12{fill:none;stroke:#FFFFFF;stroke-width:20;stroke-miterlimit:10;}
+	.st13{fill:none;stroke:#FFFFFF;stroke-width:30;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st14{fill:none;stroke:#FFFFFF;stroke-width:30;stroke-linecap:round;stroke-miterlimit:10;}
+	.st15{fill:none;stroke:#FFFFFF;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+<g id="Livello_1">
+</g>
+<g id="Livello_8" class="st0">
+	<path class="st1" d="M500,1000L500,1000C223.9,1000,0,776.1,0,500v0C0,223.9,223.9,0,500,0h0c276.1,0,500,223.9,500,500v0
+		C1000,776.1,776.1,1000,500,1000z"/>
+</g>
+<g id="Livello_3">
+	<path class="st2" d="M475.3,762.4"/>
+	<path class="st2" d="M494.9,779.9"/>
+	<path class="st3" d="M493.3,695.5"/>
+	<path class="st4" d="M544.9,963.3H434.1c-127.5,0-230.8-144.6-230.8-323l-1.7-46.4c0-17.9,10.4-32.4,23.2-32.4h526.2
+		c12.8,0,23.2,14.5,23.2,32.4l1.7,46.4C775.7,818.7,672.4,963.3,544.9,963.3z"/>
+</g>
+<g id="Livello_2" class="st0">
+	<circle class="st5" cx="500" cy="500.5" r="484.5"/>
+</g>
+<g id="Livello_4" class="st0">
+	<path class="st6" d="M389.4,220.8"/>
+	<path class="st7" d="M500,104.7"/>
+	<path class="st6" d="M389.4,220.8"/>
+	<path class="st6" d="M613.6,227.4"/>
+</g>
+<g id="Livello_5" class="st0">
+	<path class="st7" d="M548.2,419.4"/>
+	<path class="st8" d="M298.1,68.2v368.4c0,9.5,8.6,17.3,19.1,17.3h373.9c10.6,0,19.1-7.7,19.1-17.3V71.8"/>
+	<path class="st9" d="M279.6,756.1"/>
+</g>
+<g id="Livello_9" class="st0">
+	<polyline class="st10" points="243.9,96.3 243.9,161.4 756.1,161.4 756.1,98.6 	"/>
+</g>
+<g id="Livello_6">
+	<path class="st11" d="M666.8,0.6"/>
+	<path class="st12" d="M454.2,666.8"/>
+	<path class="st12" d="M454.2,522"/>
+	<path class="st13" d="M250.1,92.1c67.1,0,155.4,127.4,155.4,191.1c0,59.1,0,118.1,0,177.2"/>
+	<path class="st14" d="M730.3,143.6c-67.1,0-155.4,127.4-155.4,191.1c0,59.1,0,118.1,0,177.2"/>
+</g>
+<g id="Livello_7">
+	<ellipse class="st13" cx="848.8" cy="697" rx="86.7" ry="86.1"/>
+	<line class="st15" x1="490.2" y1="857.3" x2="490.2" y2="804.6"/>
+</g>
+</svg>
