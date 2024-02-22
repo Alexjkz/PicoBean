@@ -1,0 +1,30 @@
+{
+    "essere": ["chi sei", "come ti chiami",  "il tuo nome"],
+    "caffe": ["cappuccino", "prepara il caff", "prepara un caff", "preparami il caff", "preparami un caff", "fammi il caff", "fammi un caff"],
+    "ora": ["che ore sono", "orario", "time", "orologio"],
+    "istruzioni" : ["cosa puoi fare", "istruzioni"],
+    "canzone": ["canta una canzone", "canta qualcosa"],
+    "meteo": ["previsioni", "che tempo fa", "qual è la temperatura", "dimmi il meteo"],
+    "barzelletta" : ["raccontami una barzelletta", "fammi ridere", "di qualcosa di divertente"],
+    "statodanimo" : ["come va", "come stai"],
+    "saluto" : ["ciao", "buongiorno", "buonasera", "buon pomeriggio", "salve"],
+    "spegnere" : ["buonanotte","spegniti"],
+    "ringraziare" : ["grazie", "grazie per l'aiuto"],
+    "caffefreddo" : ["il caffè non è abbastanza caldo", "il caffè è freddo"],
+    "caffeacquoso" : ["il caffè è acquoso", "il caffè sa di acqua"],
+    "spie" : ["spiegami le spie ", "ho una spia accesa", "cosa devo fare se si accende una spia", "spia", "spie"],
+    "decalcificazione" : ["decalcificazione", "come decalcificare"],
+    "pulizia" : ["come pulire la macchinetta", "come pulire magnifica"],
+    "filtroaddolcitore" : ["filtro addolcitore", "spia filtro addolcitore", "prima spia"],
+    "caraffa" : ["spia caraffa", "seconda spia"],
+    "allarme" : ["spia con punto esclamativo", "spia pericolo", "spia triangolare", "terza spia"],    
+    "insulto" : ["fai schifo", "sei stupida"],
+    "fortnite" : ["fortnite"],
+    "male" : ["ho avuto una brutta giornata"],
+    "creatore" : ["chi ti ha creato"],
+    "impegniOggi" : ["fare oggi", "impegni del giorno", "attivit di oggi", "impegni della giornata", "impegni di oggi"],
+    "impegniDomani" : ["fare domani", "impegni di domani", "attivit di domani"]
+}
+
+
+
