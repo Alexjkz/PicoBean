@@ -25,3 +25,5 @@ The following image provides detailed insight in the structure.
 - Alessandro Fiastri @alexjkz: Python Backend main logic, Raspberry Pi optimization and compatibility, GPT integration.
 - Gianluigi Lucca Fabris @juanfabris: CSS animation, Weather API.
 
+## Code availability
+Currenlty the code is not publicly sharable in its entirety, email me for access request.
